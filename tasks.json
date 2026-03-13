@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "name": "web_search",
+      "description": "Search the web for information"
+    },
+    {
+      "name": "api_request",
+      "description": "Call external APIs"
+    },
+    {
+      "name": "autonomous_task",
+      "description": "Run autonomous agent task"
+    }
+  ]
+}
