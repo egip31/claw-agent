@@ -1,0 +1,6 @@
+{
+  "agent": "claw-agent",
+  "type": "autonomous",
+  "skills": ["clawcredit"],
+  "runtime": "node"
+}
