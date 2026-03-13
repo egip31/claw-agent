@@ -4,6 +4,9 @@ const fs = require("fs");
 
 if (fs.existsSync("./skills/clawcredit/SKILL.md")) {
   console.log("ClawCredit skill detected");
-} else {
-  console.log("Skill not found");
 }
+
+console.log("Capabilities:");
+console.log("- Web search");
+console.log("- API calls");
+console.log("- Autonomous tasks");
